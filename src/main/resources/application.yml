@@ -1,0 +1,10 @@
+server:
+  context-path: /demoReact
+  
+sql: 
+    db:
+        username: root
+        url: "jdbc:mysql://localhost:3306/demo_react"
+        password: root
+        driver-class-name: "com.mysql.jdbc.Driver" 
+       
